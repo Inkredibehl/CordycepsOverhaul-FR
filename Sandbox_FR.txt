@@ -1,0 +1,13 @@
+Sandbox_FR = {
+    Sandbox_SporeZones_DrainageFilter = "[Cordyceps Spore Zones] Dommages aux filtres",
+    Sandbox_SporeZones_DrainageFilter_tooltip = "Les zones de spores consommeront-elles le filtre lorsqu'elles sont à l'intérieur."
+	
+	Sandbox_SporeZones_TimetoDrainFilter = "[Cordyceps Spore Zones] Temps pour détruire un filtre [en heures]",
+    Sandbox_SporeZones_TimetoDrainFilter_tooltip = "Temps nécessaire à la zone de spores pour vider complètement un filtre."
+	
+	Sandbox_SporeZones_DrainageOxyTank = "[Cordyceps Spore Zones] Consommation du réservoir d'oxygène",
+    Sandbox_SporeZones_DrainageOxyTank_tooltip = "Les zones de spores consommeront-elles les réservoirs d'oxygène lorsqu'elles sont à l'intérieur."
+	
+	Sandbox_SporeZones_TimetoDrainOxyTank = "[Cordyceps Spore Zones] Temps pour consommer un réservoir d'oxygène [en heures]",
+    Sandbox_SporeZones_TimetoDrainOxyTank_tooltip = "Temps nécessaire à la zone de spores pour vider complètement un réservoir d'oxygène."
+}
